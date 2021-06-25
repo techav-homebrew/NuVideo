@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name NuVideo)(type Legacy)(uri ${KIPRJMOD}/libraries/NuVideo.lib)(options "")(descr ""))
+)

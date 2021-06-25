@@ -1,0 +1,81 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +1V2
+D Power symbol creates a global label with name "+1V2"
+K power-flag
+$ENDCMP
+#
+$CMP +3.3V
+D Power symbol creates a global label with name "+3.3V"
+K power-flag
+$ENDCMP
+#
+$CMP +3V3
+D Power symbol creates a global label with name "+3V3"
+K power-flag
+$ENDCMP
+#
+$CMP +5V
+D Power symbol creates a global label with name "+5V"
+K power-flag
+$ENDCMP
+#
+$CMP 74LS125
+D Quad buffer 3-State outputs
+K TTL buffer 3State
+F http://www.ti.com/lit/gpn/sn74LS125
+$ENDCMP
+#
+$CMP 74LVC125
+D Quad buffer 3-State outputs
+K TTL buffer 3State
+F http://www.ti.com/lit/gpn/sn74LVC125
+$ENDCMP
+#
+$CMP AS4C4M16SA
+D 64M – (4M x 16 bit) Synchronous DRAM (SDRAM), TSOP II 54pin
+K SDRAM Synchronus DRAM PC166 PC143 64Mb 16Mbx4 MEMORY
+F https://www.alliancememory.com/wp-content/uploads/pdf/dram/64M-AS4C4M16SA-CI_v3.0_March%202015.pdf
+$ENDCMP
+#
+$CMP ASCO
+D Crystal Clock Oscillator, Abracon ASCO
+K Crystal Clock Oscillator
+F https://abracon.com/Oscillators/ASCO.pdf
+$ENDCMP
+#
+$CMP AT25SF081-SSHD-X
+D 8-Mbit, 2.5V Minimum SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support, SOIC-8
+K SPI DSPI QSPI 8Mbit 2.5V
+F https://www.adestotech.com/wp-content/uploads/DS-AT25SF081_045.pdf
+$ENDCMP
+#
+$CMP AT25SF081-SSHF-X
+D 8-Mbit, 2.3V Minimum SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support, SOIC-8
+K SPI DSPI QSPI 8Mbit 2.3V
+F https://www.adestotech.com/wp-content/uploads/DS-AT25SF081_045.pdf
+$ENDCMP
+#
+$CMP C96ABC
+D Connector Europe, 96 contacts, ranges A,B,C
+K connector
+F  ~
+$ENDCMP
+#
+$CMP GND
+D Power symbol creates a global label with name "GND" , ground
+K power-flag
+$ENDCMP
+#
+$CMP HDMI_A
+D HDMI type A connector
+K hdmi conn
+F https://en.wikipedia.org/wiki/HDMI
+$ENDCMP
+#
+$CMP XC6SLX4-TQG144
+D Spartan 6 LX 4 XC6SLX4-TQG144
+K FPGA
+$ENDCMP
+#
+#End Doc Library
